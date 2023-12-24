@@ -1,0 +1,4 @@
+C:\Users\Mina\Desktop\OpenGL3DTemplate\Debug\OpenGL3DTemplate.exe
+C:\Users\pc\Desktop\OpenGL3DTemplate\Debug\OpenGL3DTemplate.exe
+C:\Users\pc\Desktop\graphics\OpenGL3DTemplate\Debug\OpenGL3DTemplate.exe
+C:\Users\Mina\Desktop\graphics\OpenGL3DTemplate\Debug\OpenGL3DTemplate.exe
